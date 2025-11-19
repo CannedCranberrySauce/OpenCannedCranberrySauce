@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/CSS" href="css.css.css">
+<h1>blue</h1>
+<p>RAINBOW!</p>
+<p href="css.css.css" class="p1">Social Security Number</p>
+<p href="css.css.css" class="p1">Credit Card number</p>
+</head>
+<body>
+<a href="css.css.css" class="button">Contact Us</a>
+</body>
+</html>
