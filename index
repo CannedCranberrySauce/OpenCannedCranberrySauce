@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title> </title>
+  <!----Add your title here----> 
+  <link rel="stylesheet" href="css.css">
+</head>
+<body>
+  <nav>
+    <a href="event.html">Event</a>
+    <a href="form.html">Form</a>
+  </nav>
+  <!----Add whatever you want on the "front page" here----> 
+</body>
